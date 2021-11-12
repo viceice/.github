@@ -1,4 +1,4 @@
-[![Build status](https://github.com/visualon/.github/actions/workflows/test.yml/badge.svg)](https://github.com/visualon/.github/actions/workflows/test.yml)
-![License](https://img.shields.io/github/license/visualon/.github)
+[![Build status](https://github.com/viceice/.github/actions/workflows/test.yml/badge.svg)](https://github.com/viceice/.github/actions/workflows/test.yml)
+![License](https://img.shields.io/github/license/viceice/.github)
 
-# VisualOn GmbH
+# viceice

@@ -40,3 +40,4 @@ jobs:
         if: |
           needs.test.result == 'failure' ||
           needs.test.result == 'cancelled'
+        run: exit 1
